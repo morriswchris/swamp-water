@@ -1,0 +1,32 @@
+{
+  "name": "swamp-water",
+  "version": "0.0.1",
+  "description": "An easy way of creating/updating content for marketing sites",
+  "main": "index.html",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morriswchris/swamp-water.git"
+  },
+  "keywords": [
+    "marketing",
+    "SPA",
+    "gulp",
+    "nodejs",
+    "npm",
+    "bower"
+  ],
+  "author": "Chris Morris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morriswchris/swamp-water/issues"
+  },
+  "homepage": "https://github.com/morriswchris/swamp-water",
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-processhtml": "^1.1.0"
+  }
+}
