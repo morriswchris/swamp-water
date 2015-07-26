@@ -1,5 +1,5 @@
-# swamp-water
-Marketing Websites made easy with gulp and processhtml
+# Swamp Water
+Mixing any CSS templated site with Gulp.
 
 ## Install
 
