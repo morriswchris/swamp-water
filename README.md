@@ -1,15 +1,20 @@
 # Swamp Water
 Mixing all CSS templated site with Gulp.
 
-## Install
-
-Simply clone this repo. `git clone git@github.com:morriswchris/swamp-water <name-of-project>`
-
 ## Overview
 
 With marketing site content constantly changing, why not boilerplate all the text! Simply transcribe
 all the data for all you html pages into `template-data.js`. This File can be a simple or complicated as you like.
 Place all of your html files into `src/`. When you're ready, simply run `gulp` from your CLI and your compiled website will be ready in `dist/` for deployment!
+
+## Install/Usage
+
+1. Simply clone this repo. `git clone git@github.com:morriswchris/swamp-water <name-of-project>`
+2. `cd <name-of-project>`
+3. Copy all of your assets into `assets/`
+4. Copy all of your HTML into `src/`
+5. Edit all of your HTML with `{{ }}` notation and update `template-data.js` with your actual text
+6. Run `gulp` to generate your site. All text changes simply need a re-run of `gulp` instead of editing to the HTML directly.
 
 ## Explaination
 
