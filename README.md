@@ -1,5 +1,5 @@
 # Swamp Water
-Mixing any CSS templated site with Gulp.
+Mixing all CSS templated site with Gulp.
 
 ## Install
 
